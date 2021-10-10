@@ -1,0 +1,928 @@
+fileFormatVersion: 2
+guid: 3ecf6f5c30904f14384c7a8304ae8c1c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6466478707814445888
+    second: SoundOffOn_0
+  - first:
+      213: 468689536541286633
+    second: SoundOffOn_1
+  - first:
+      213: -4102414044401120719
+    second: SoundOffOn_2
+  - first:
+      213: 2357502215896873744
+    second: SoundOffOn_3
+  - first:
+      213: -1866972199860995665
+    second: SoundOffOn_4
+  - first:
+      213: -3150736993196439874
+    second: SoundOffOn_5
+  - first:
+      213: 5163817102970763562
+    second: SoundOffOn_6
+  - first:
+      213: 827829052586027450
+    second: SoundOffOn_7
+  - first:
+      213: 6301372908652579669
+    second: SoundOffOn_8
+  - first:
+      213: 6381551217475972320
+    second: SoundOffOn_9
+  - first:
+      213: 1373640307167992065
+    second: SoundOffOn_10
+  - first:
+      213: -7721713956258224893
+    second: SoundOffOn_11
+  - first:
+      213: -7669937251016303058
+    second: SoundOffOn_12
+  - first:
+      213: 3602962136378257443
+    second: SoundOffOn_13
+  - first:
+      213: -8506242608270704903
+    second: SoundOffOn_14
+  - first:
+      213: 5295979339889839282
+    second: SoundOffOn_15
+  - first:
+      213: -6719830322802038033
+    second: SoundOffOn_16
+  - first:
+      213: 9144782218619800817
+    second: SoundOffOn_17
+  - first:
+      213: -6345937841234275583
+    second: SoundOffOn_18
+  - first:
+      213: -8631721486817180617
+    second: SoundOffOn_19
+  - first:
+      213: -5997097923658937020
+    second: SoundOffOn_20
+  - first:
+      213: 8137539735735752890
+    second: SoundOffOn_21
+  - first:
+      213: 936216991312393967
+    second: SoundOffOn_22
+  - first:
+      213: 6982532455385217756
+    second: SoundOffOn_23
+  - first:
+      213: 7450310561299206695
+    second: SoundOffOn_24
+  - first:
+      213: 6079084176507160651
+    second: SoundOffOn_25
+  - first:
+      213: -9158834642346932746
+    second: SoundOffOn_26
+  - first:
+      213: 5517320381012176170
+    second: SoundOffOn_27
+  - first:
+      213: 8163707463737110154
+    second: SoundOffOn_28
+  - first:
+      213: -7986419802484145855
+    second: SoundOffOn_29
+  - first:
+      213: -6155333607846546872
+    second: SoundOffOn_30
+  - first:
+      213: 102554911223758586
+    second: SoundOffOn_31
+  - first:
+      213: 1601965972572241263
+    second: SoundOffOn_32
+  - first:
+      213: -96816648427616773
+    second: SoundOffOn_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SoundOffOn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a3930aa22df9f45b456e98af1d4a66
+      internalID: 6466478707814445888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23fe215332321524e8783923e78717fc
+      internalID: 468689536541286633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_2
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64acd50558b941e4bb15a8ba4aee606c
+      internalID: -4102414044401120719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9c6781635f3b74da05ff0db076b040
+      internalID: 2357502215896873744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_4
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0dc1e4084fbccd40b7c1f1f20f503a2
+      internalID: -1866972199860995665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_5
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b110164159d1b1e439d6e68309ad6961
+      internalID: -3150736993196439874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_6
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ab23edc8f353c469866a9125845789
+      internalID: 5163817102970763562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_7
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f89ce3a4c74b5f4d86d9e34b55dcfbd
+      internalID: 827829052586027450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_8
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ffdd575e4818d42b24d9036e37ef9c
+      internalID: 6301372908652579669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_9
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f69ddfb28fefb4e8029ca535ec5ffe
+      internalID: 6381551217475972320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_10
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe37c0dda19b38448a743ac4cae60c74
+      internalID: 1373640307167992065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_11
+      rect:
+        serializedVersion: 2
+        x: 2816
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd5b29a8e139114bae760bf61b69efd
+      internalID: -7721713956258224893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_12
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810cecf5fe7c14147af4794f595b09d0
+      internalID: -7669937251016303058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_13
+      rect:
+        serializedVersion: 2
+        x: 3328
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55291d5d7836b774d92758721b00eab8
+      internalID: 3602962136378257443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_14
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80895be87254e664581381fcb419c761
+      internalID: -8506242608270704903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_15
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fdb906bea639c648944d0b776ffb2b5
+      internalID: 5295979339889839282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_16
+      rect:
+        serializedVersion: 2
+        x: 4096
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61e07f5c8336b324898fe86dce64ccc4
+      internalID: -6719830322802038033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_17
+      rect:
+        serializedVersion: 2
+        x: 4352
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78ac6d92c90d70745a0f3b5565b45410
+      internalID: 9144782218619800817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_18
+      rect:
+        serializedVersion: 2
+        x: 4608
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b3c8b6c522ea418bfb98468812166
+      internalID: -6345937841234275583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_19
+      rect:
+        serializedVersion: 2
+        x: 4864
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e5d569e074069489e0a55a84315a4f
+      internalID: -8631721486817180617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_20
+      rect:
+        serializedVersion: 2
+        x: 5120
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f39e9047ee9bba4d8605a3585e890a2
+      internalID: -5997097923658937020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_21
+      rect:
+        serializedVersion: 2
+        x: 5376
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e815ceda9209ac64dbe12b16ac103842
+      internalID: 8137539735735752890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_22
+      rect:
+        serializedVersion: 2
+        x: 5632
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dd96ab74f106d42af1082e3475e728
+      internalID: 936216991312393967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_23
+      rect:
+        serializedVersion: 2
+        x: 5888
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b07800bd0fff347a3dc2eaa490a43d
+      internalID: 6982532455385217756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_24
+      rect:
+        serializedVersion: 2
+        x: 6144
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367fb5c92a6bb0a44a353a739746aac3
+      internalID: 7450310561299206695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_25
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c04970e3200bfb48920bd54c1b8b23c
+      internalID: 6079084176507160651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_26
+      rect:
+        serializedVersion: 2
+        x: 6656
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae99f0e6e2ee3049a52a12351fb5ed1
+      internalID: -9158834642346932746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_27
+      rect:
+        serializedVersion: 2
+        x: 6912
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0fc33bcd588af47be99e531ab9b310
+      internalID: 5517320381012176170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_28
+      rect:
+        serializedVersion: 2
+        x: 7168
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bcc8513f0e1d784ba7c5f77146c2af9
+      internalID: 8163707463737110154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_29
+      rect:
+        serializedVersion: 2
+        x: 7424
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dbb91b884adde4fa7544d68bfbd55b
+      internalID: -7986419802484145855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_30
+      rect:
+        serializedVersion: 2
+        x: 7680
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272107412cd90e3449d3aa5b9407746d
+      internalID: -6155333607846546872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_31
+      rect:
+        serializedVersion: 2
+        x: 7936
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e441498a0ad2d45b200f5e335aa71b
+      internalID: 102554911223758586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_32
+      rect:
+        serializedVersion: 2
+        x: 8192
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0038e2473ea18e9489777a8f0ea320a2
+      internalID: 1601965972572241263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SoundOffOn_33
+      rect:
+        serializedVersion: 2
+        x: 8448
+        y: 9
+        width: 256
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709c1f57d2e55f34bb0835c7f83c839a
+      internalID: -96816648427616773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8cf28c52cd4ec0c4c891f9925ccaa9b9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
